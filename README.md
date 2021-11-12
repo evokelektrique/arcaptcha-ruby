@@ -1,6 +1,10 @@
-# Arcptcha
+<h1>
+  <img src="https://arcaptcha.ir/logo.png" width="80" />
+  Arcptcha
+</h1>
 
 Arcaptcha library in Ruby
+
 
 ## Installation
 
