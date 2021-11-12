@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    arcaptcha (0.1.0)
+    arcaptcha (1.0.0)
 
 GEM
   remote: https://rubygems.org/
