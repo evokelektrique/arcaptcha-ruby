@@ -1,6 +1,6 @@
 <h1>
   <img src="https://arcaptcha.ir/logo.png" width="80" />
-  Arcptcha
+  Arcaptcha
 </h1>
 
 Arcaptcha library in Ruby
