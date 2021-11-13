@@ -1,6 +1,11 @@
 <h1>
   <img src="https://arcaptcha.ir/logo.png" width="80" />
   Arcaptcha
+  
+  <!-- Badges -->
+  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/evokelektrique/arcaptcha-ruby/Ruby?style=flat-square">
+  <img alt="GitHub" src="https://img.shields.io/github/license/evokelektrique/arcaptcha-ruby?color=blue&label=LICENSE&style=flat-square">
+  <img alt="Gem" src="https://img.shields.io/gem/v/arcaptcha?style=flat-square">
 </h1>
 
 Arcaptcha library in Ruby
